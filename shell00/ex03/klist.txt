@@ -1,0 +1,5 @@
+Credentials cache: API:7630A215-63DA-4E80-B027-13E496B3F14E
+        Principal: ckasyc@42.FR
+
+  Issued                Expires               Principal
+Aug 26 13:58:51 2020  Sep  2 13:40:43 2020  krbtgt/42.FR@42.FR

@@ -1,0 +1,4 @@
+hexdump: bonjour: No such file or directory
+hexdump: je: No such file or directory
+hexdump: suis: No such file or directory
+hexdump: Cyrille: No such file or directory

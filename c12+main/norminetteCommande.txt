@@ -1,0 +1,1 @@
+norminette $(find . -type f -name "*.c" -not -name "main.c" -not -name "ft_create_elem.c")
