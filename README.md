@@ -2,7 +2,7 @@
 
 Voici tous mes codes effectués durant ma piscine de 42 Paris.
 
-![scores globaux](./Scores globaux.png?raw=true)
+![scores globaux]("Scores globaux.png?raw=true")
 
 Je n'ai malheureusement pas eu le temps durant cette piscine de valider a 100% l'intégralitée des modules que j'ai fait, aussi c'est pourquoi certains ne sont pas à 100%.
 
