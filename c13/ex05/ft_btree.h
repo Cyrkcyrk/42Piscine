@@ -6,7 +6,7 @@
 /*   By: ckasyc <ckasyc@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/26 14:55:12 by ckasyc            #+#    #+#             */
-/*   Updated: 2020/08/26 14:56:31 by ckasyc           ###   ########.fr       */
+/*   Updated: 2020/08/27 19:11:32 by ckasyc           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,6 @@ typedef struct	s_btree
 	struct s_btree	*right;
 	void			*item;
 }				t_btree;
-
-t_btree 		*btree_create_node(void *item);
+t_btree			*btree_create_node(void *item);
 
 #endif
