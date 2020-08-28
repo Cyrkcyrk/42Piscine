@@ -2,7 +2,7 @@
 
 Voici tous mes codes effectués durant ma piscine de 42 Paris.
 
-(https://image.noelshack.com/fichiers/2020/35/5/1598649035-scores-globaux-exam-final.png)
+![scores globaux](https://image.noelshack.com/fichiers/2020/35/5/1598649035-scores-globaux-exam-final.png)
 
 Je n'ai malheureusement pas eu le temps durant cette piscine de valider a 100% l'intégralitée des modules que j'ai fait, aussi c'est pourquoi certains ne sont pas à 100%;
 
